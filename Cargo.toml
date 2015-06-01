@@ -1,0 +1,11 @@
+[package]
+name = "panning"
+version = "0.1.0"
+authors = ["mitchmindtree <mitchell.nordine@gmail.com>"]
+description = "A variety of utilities related to audio panning."
+readme = "README.md"
+keywords = ["pan", "dsp", "audio", "stereo", "amplitude"]
+license = "Apache-2.0/MIT"
+repository = "https://github.com/RustAudio/panning.git"
+homepage = "https://github.com/RustAudio/panning"
+
