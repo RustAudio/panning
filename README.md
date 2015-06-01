@@ -8,7 +8,7 @@ Usage
 
 Add panning to your cargo dependencies like this:
 
-```
+```toml
 [dependencies]
 panning = "*"
 ```
